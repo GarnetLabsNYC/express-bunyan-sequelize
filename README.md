@@ -6,6 +6,14 @@
 
 **This template uses Sequelize-CLI to generate Models and Migrations. It is not a package requirement, but a Dev one that should be installed globally with npm**
 
+# Installation
+
+```
+git clone https://github.com/GarnetLabsNYC/express-bunyan-sequelize.git <your app name>
+cd <your app name>
+npm install
+```
+
 To install the Sequelize-CLI, run:
 `npm install -g sequelize-cli`
 
